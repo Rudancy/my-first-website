@@ -34,11 +34,12 @@ nav a:hover{
 }
 
 .card{
- float: left;
  width: 20%;
  margin-left: 10%;
- height: 100px;
- 
+height: 100px;
+display:inline-block;   
+    
+
 }
 .card a {
     text-align: center;
