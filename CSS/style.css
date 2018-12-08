@@ -37,14 +37,16 @@ nav a:hover{
  float: left;
  width: 20%;
  margin-left: 10%;
-    
+ height: 100px;
+ 
 }
 .card a {
     text-align: center;
     
 }
 img{
-    width:100%;
+    width:30px;
+    
 }
 h1{
     text-align: center;
